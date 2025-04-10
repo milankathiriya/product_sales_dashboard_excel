@@ -4,6 +4,12 @@ Welcome to the **Product Sales Data** repository! This project contains a compre
 
 ---
 
+## 📊 Dashboard
+
+<img src="Dashboard.png" height="250px" width="480px">
+
+---
+
 ## 📂 File Overview
 
 - **File Name:** `Product Sales Data.xlsx`  
