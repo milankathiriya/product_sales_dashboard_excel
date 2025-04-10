@@ -6,7 +6,7 @@ Welcome to the **Product Sales Data** repository! This project contains a compre
 
 ## 📊 Dashboard
 
-<img src="Dashboard.png" height="250px" width="480px">
+<img src="Dashboard.png" height="320px" width="750px">
 
 ---
 
